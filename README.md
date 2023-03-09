@@ -1,4 +1,4 @@
-# TODOLIST WITH FLTTUTTER
+# TODOLIST WITH FLUTTER
 
 A first  my Flutter  project.
 
